@@ -1,3 +1,5 @@
 # Assigments
-Assignments and Exercises
+Assignments and Exercises.
+
+-------------------------------------
 These are the exercises done in class
